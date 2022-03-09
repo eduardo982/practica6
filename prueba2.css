@@ -1,0 +1,34 @@
+body{
+    font-family: Calibrí;
+    font-size: 21px;
+}
+h1{
+    color:darkorange;
+    box-sizing: border-box;
+}
+h2{
+    background-color: aqua;
+    color: blueviolet;
+    margin: 5px;
+    border: solid red 3px;
+}
+img{
+    float: left;
+    margin: 50px;
+}
+p{
+    color:chartreuse;
+    margin-right: 3px;
+}
+#caja1{
+    height: 500px;
+    width: 50%;
+    background-color: blueviolet;
+    float: right;
+}
+#caja2{
+    height: 300px;
+    width: 400px;
+    background-color:bisque;
+    float: left;
+}
